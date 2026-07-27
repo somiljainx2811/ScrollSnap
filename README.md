@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📸 ScrollSnap — Manual Scroll Screenshot Stitcher
 
 Capture long screenshots by scrolling manually. Works on **Linux** and **Windows**.
@@ -67,3 +68,6 @@ python3 scrollsnap.py
 | pillow  | Image processing & stitching    |
 | mss     | Fast cross-platform screenshots |
 | tkinter | GUI (built into Python)         |
+=======
+# ScrollSnap
+>>>>>>> 43bc5bf33a4ce5d4f80211aa3ce0d7af3386b78c
