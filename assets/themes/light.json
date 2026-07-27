@@ -1,0 +1,21 @@
+{
+    "name": "light",
+    "colors": {
+        "bg": "#f5f5f7",
+        "surface": "#ffffff",
+        "surface2": "#e8e8ee",
+        "border": "#d0d0da",
+        "accent": "#0088aa",
+        "accent2": "#00a8a0",
+        "success": "#12a150",
+        "warning": "#b8790a",
+        "danger": "#d9291c",
+        "text": "#1a1a22",
+        "muted": "#6b6b7a",
+        "fog_bg": "#e0e0e6"
+    },
+    "font": {
+        "family": "Segoe UI",
+        "mono": "Courier"
+    }
+}

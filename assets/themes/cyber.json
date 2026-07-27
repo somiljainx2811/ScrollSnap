@@ -1,0 +1,21 @@
+{
+    "name": "cyber",
+    "colors": {
+        "bg": "#05050a",
+        "surface": "#0d0d1a",
+        "surface2": "#161628",
+        "border": "#2e1a4d",
+        "accent": "#ff2ec4",
+        "accent2": "#00fff2",
+        "success": "#39ff88",
+        "warning": "#ffe600",
+        "danger": "#ff2b4d",
+        "text": "#f0f0ff",
+        "muted": "#7a6b9a",
+        "fog_bg": "#0a0a14"
+    },
+    "font": {
+        "family": "Segoe UI",
+        "mono": "Courier"
+    }
+}
